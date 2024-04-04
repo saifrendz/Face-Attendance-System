@@ -1,0 +1,24 @@
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Virtual environment
+venv/
+ENV/
+
+# Dependency directories
+env/
+Lib/
+lib/
+include/
+
+# Local development settings
+.idea/
+.vscode/
+
+# OS or Editor files
+.DS_Store
+Thumbs.db
+
+# Other files
+serviceAccountKey.json
